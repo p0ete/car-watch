@@ -1,0 +1,5 @@
+/autres
+/env
+.env
+google_sheets_credentals.json
+token.pickle
